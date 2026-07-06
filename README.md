@@ -32,7 +32,7 @@ The Personal Finance Tracker is a web application designed to help users manage 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/personal-finance-tracker.git
+   git clone https://github.com/tuoc1226-maker/SpringFinTracker.git
    ```
 
 2. Navigate to the frontend directory:
@@ -60,7 +60,7 @@ The Personal Finance Tracker is a web application designed to help users manage 
 1. Navigate to the backend directory:
 
    ```bash
-   cd personal-finance-tracker/backend
+   cd SpringFinTracker.git/backend
    ```
 
 2. Configure the `application.properties` file with your PostgreSQL database credentials.
@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
+to tuoc1226@gmail.com
 ```
 
 Feel free to modify the contact information and any other details to fit your specific needs. Let me know if you need any more adjustments!
